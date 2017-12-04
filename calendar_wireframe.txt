@@ -1,0 +1,13 @@
+//open calendar page with current date highlighted (yellow)
+//dot on dates with events
+//when user clicks calendar
+	//highlight date (red)
+	//slide box with events on that date (title and time)
+		//when user clicks event link, expand event details 
+			//include brief description, +add to calendar, +bookmark
+//store bookmarked events
+//star saved events in calendars (blue)
+	//when user clicks on star, slide box with saved events
+//when user clicks next or previous, navigate to appropriate month
+	//click month, dropdown menu of months
+

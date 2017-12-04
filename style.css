@@ -1,0 +1,59 @@
+h1 {
+    font-family: inherit;
+    color: #104b7d;  
+}
+button {
+    background: #f5c547;
+    height: 30px;
+    width: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.header {
+    background: #8c8d8e;
+    width: 40%;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#prev {
+    float: left;  
+}
+#next {
+    float: right;  
+}
+
+.month-year {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    color: white; 
+}
+
+table, th, td {
+    background-color: lightgrey;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    color: #104b7d; 
+    border-color: 1px solid black;
+    text-align: center;
+}
+table {
+    width: 40%;
+}
+
+th {
+    height: 40px;
+    text-align: center;
+}
+
+.nil {
+    background-color: white;
+}
+
+.today {
+    background-color: #8a1f03;
+    color: white
+}
